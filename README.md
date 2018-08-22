@@ -1,6 +1,4 @@
-# Aggregating-and-Separating-in-R
-Aggregating and separating data based on the domain type.
+# Data-Manupulation-in-R
+Aggregating and separating data based on the client and domain type. 
 
-Using R 
-
-Will need dplyr and tydr packages for the data manipulation functions.
+Will need dplyr and tydr packages for the data manipulation and aggregating functions.
