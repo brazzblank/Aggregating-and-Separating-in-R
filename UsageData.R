@@ -1,7 +1,5 @@
-install.packages("dplyr")
-install.packages("tidyr")
-library(dplyr) 
-library(tidyr)
+install.packages("tidyverse")
+library(tidyverse)
 
 #Millions of rows needed to be downloaded into separate csv files and then combined
 
